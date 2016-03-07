@@ -1,0 +1,16 @@
+﻿Build started 1/30/2016 5:33:35 PM.
+     1>Project "C:\projects\LazarusServer\build\ZERO_CHECK.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Checking Build System
+         CMake is re-running because C:/projects/LazarusServer/build/CMakeFiles/generate.stamp is out-of-date.
+           the file 'C:/projects/LazarusServer/CMakeLists.txt'
+           is newer than 'C:/projects/LazarusServer/build/CMakeFiles/generate.stamp.depend'
+           result='-1'
+         -- Configuring done
+         -- Generating done
+         -- Build files have been written to: C:/projects/LazarusServer/build
+     1>Done Building Project "C:\projects\LazarusServer\build\ZERO_CHECK.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.17

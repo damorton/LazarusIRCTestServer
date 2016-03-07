@@ -1,0 +1,3 @@
+C:/projects/LazarusServer/build/CMakeFiles/lazarusServer.dir
+C:/projects/LazarusServer/build/CMakeFiles/ALL_BUILD.dir
+C:/projects/LazarusServer/build/CMakeFiles/ZERO_CHECK.dir

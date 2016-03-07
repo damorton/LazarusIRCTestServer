@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\projects\LazarusServer\build\CMakeFiles\371ca87e92c62ca9b8cba9212bb83b88\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B47BAA71-380B-394C-99F9-04303D8AD260}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
